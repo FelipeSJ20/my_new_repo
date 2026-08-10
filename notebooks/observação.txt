@@ -1,0 +1,1 @@
+Tive que copiar o arquivo 'vehicles_us.csv' pois apos fazer o teste do notebook Jupyter, o arquivo não era encontrado no diretorio.
